@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hangarin
 
 Hangarin is a Django-based Task Management System designed to help organize daily activities by managing Tasks, SubTasks, Notes, Categories, and Priorities. It provides a structured and simple way to improve productivity with Django’s admin dashboard.
@@ -26,3 +27,6 @@ Fake Data Generator (optional with Faker)
 *Useful for testing and demonstration.
 
 DEVELOPER: Obaredes, Kyle TD D.
+=======
+# rommel_hangarin
+>>>>>>> 9c09359bc4e24eb636fc21d5bdfad9e52680d5bd
