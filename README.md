@@ -26,7 +26,7 @@ Fake Data Generator (optional with Faker)
 *Generate test Categories, Tasks, SubTasks, and Notes.
 *Useful for testing and demonstration.
 
-DEVELOPER: Obaredes, Kyle TD D.
+DEVELOPER: Obanana, Rommel
 =======
 # rommel_hangarin
 >>>>>>> 9c09359bc4e24eb636fc21d5bdfad9e52680d5bd
